@@ -1,2 +1,3 @@
-# OOPCGamble
-Nesne yönelimli kumar konsol uygulaması 
+# Kumar
+C ile konsolda nesne yönelimli kumar uygulaması 
+Girilen verilere göre oynanan kumar uygulaması
